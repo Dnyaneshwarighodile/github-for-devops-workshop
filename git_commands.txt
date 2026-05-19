@@ -22,3 +22,6 @@ git status
    2 mkdir git-demo-new
    3 cd git-demo-new
    4 git clone https://github.com/Dnyaneshwarighodile/github-for-devops-workshop.git
+
+
+this is new changes  -  git commit
