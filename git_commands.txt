@@ -17,3 +17,8 @@ rm testing.py
 git status                                             
 git restore testing.py                                 
 git status   
+
+  1 cd documents
+   2 mkdir git-demo-new
+   3 cd git-demo-new
+   4 git clone https://github.com/Dnyaneshwarighodile/github-for-devops-workshop.git
